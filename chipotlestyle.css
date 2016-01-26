@@ -1,0 +1,41 @@
+body {
+	background-image: url("http://media.sailthru.com/3cn/1k0/1/q/56a7e02011fdb.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+}
+
+
+#header {
+	color: #492C1D;
+	display:block;
+	clear:both;
+	padding: 30px 0px 30px 0px;
+	text-align:center;
+	font-size: 45px;
+	font-family: 'Francois One', sans-serif;
+}
+
+
+#answer p {
+	color: #492C1D;
+	clear:both;
+	text-align:center;
+	font-size: 160px;
+	font-family: 'Francois One', sans-serif;
+}
+
+#footer p {
+	color: #492C1D;
+	text-decoration: none;
+	clear:both;
+	text-align:center;
+	font-size: 20px;
+	font-family: 'Francois One', sans-serif;
+	padding-top: 10px;
+}
+a:hover, a:visited, a:link, a:active {
+	color: #492C1D;
+	text-decoration: none;
+}
+

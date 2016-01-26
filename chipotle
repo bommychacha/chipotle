@@ -1,0 +1,30 @@
+
+
+<!doctype html>
+<hmtl>
+<head>
+<link rel="stylesheet" type="text/css" href="chipotlestyle.css">
+<link href='https://fonts.googleapis.com/css?family=Francois+One' rel='stylesheet' type='text/css'>
+<meta charset="UTF-8">
+<meta name="bommy" content="profile"/>
+<title>I Miss My Chipotle</title>
+</head>
+
+<body>
+
+
+<div id="header">
+<h1 id="headerColor">safe yet?</h1>
+</div>
+
+<div id="answer">
+<p>NO.</p>
+</div>
+
+<div id="footer">
+<p><a href="www.bommycha.com" target="_blank">about</a></p>
+</div>
+
+</body>
+
+</html>
